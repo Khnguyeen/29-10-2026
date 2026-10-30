@@ -3,11 +3,11 @@ MỤC 1: THÔNG TIN SINH VIÊN
 
 
 
-• Họ và tên sinh viên: Vũ Đức Thanh
+• Họ và tên sinh viên: Trịnh Khôi Nguyên
 
 
 
-• Mã sinh viên: 24810310487
+• Mã sinh viên: 24810310429
 
 
 
@@ -59,8 +59,8 @@ MỤC 3: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 
 
 
-**Họ và tên:** Vũ Đức Thanh
+**Họ và tên:** Trịnh Khôi Nguyên
 
 **Lớp:** D19CNPM5  
 
-**Mã sinh viên:** 24810310487
+**Mã sinh viên:** 24810310429
